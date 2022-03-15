@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
 
-font-family: 'Karla', sans-serif;
+
 
 
 *{
@@ -12,15 +12,15 @@ html{
     font-family: 'Source Sans Pro', sans-serif;
     font-style:normal;
     font-size:16px;
-    color:#5a5150
+    color:#5a5150;
     line-height:1.8;
 }
 
-h1, h2, h4, h4, h5, h6,{
+h1, h2, h3, h4, h5, h6{
     font-family: 'Karla', sans-serif;
     font-style:normal;
-    color 4e4b4b;
-    line: height:1.4;
+    color:#4e4b4b;
+    line-height:1.4;
 }
 
 h2{
@@ -36,7 +36,7 @@ h3{
 h4{
     font-size:16px;
     color: #919291
-    line-height:1.4;
+    line-height1.4;
 }
 
 a{
